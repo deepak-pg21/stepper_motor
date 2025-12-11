@@ -1,0 +1,6 @@
+OpenLane/venv/
+OpenLane/install/
+OpenLane/designs/*/runs/
+OpenLane/dependencies/
+OpenLane/docker/
+OpenLane/klayoutrc
